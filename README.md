@@ -14,7 +14,7 @@ DSV 客户端帮助你选择应用、连接车机，并在车机应用商店中�
 - 一台车机，以及要安装的预置应用或套餐允许的 APK 文件。
 - 电脑热点：车机需要连接电脑共享的网络，并能正常访问原有应用商店。
 
-前往 [下载页面](https://github.com/liuzexier/dsv-client-guide/releases)，选择与你的电脑系统和处理器匹配的正式版。当前公开发布的资产为 macOS 版本；其他平台以下载页面实际提供的文件为准。
+前往 [下载页面](https://github.com/liuzexier/dsv-client-guide/releases)，选择与你的电脑系统和处理器匹配的正式版。当前提供 macOS ZIP 和 Windows x64 EXE；其他平台以下载页面实际提供的文件为准。
 
 ### Mac：准备热点网段
 
